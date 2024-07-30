@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💟🌎😍
 
-<!--
-**julianagabriele/julianagabriele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ✨_juliana_✨
 
-Here are some ideas to get you started:
+- I study at **[Alura](https://ww.alura.com.br)**;
+- Curso a lingua inglesa;
+- Utilizo esse espaço para me organizar e compartilhar os meus projetos que desenvolvo;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contado comigo 📫 
+
+00001112770562sp@al.educacao.sp.gov.br
+
+insta: @juliana.gabi.oliveira
+
+![](https://media1.tenor.com/m/4lgW8L1KAO4AAAAC/arquitecto.gif)
+
+
+
